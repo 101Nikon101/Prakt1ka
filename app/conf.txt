@@ -1,0 +1,4 @@
+files_dir = apache/logs/log.txt
+ext = log
+format = %h %l %t "%r" %>s %b
+log_dir = .txt
